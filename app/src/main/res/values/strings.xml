@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">scavenge</string>
+    <string name="cybercoins">Collect cybercoins</string>
+    <string name="search">Search</string>
+</resources>
